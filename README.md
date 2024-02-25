@@ -1,5 +1,7 @@
 # dynamo2nextpyp
-Tools to convert Dynamo projects to nextPYP
+Script to convert Dynamo projects to nextPYP
+
+Note that the conversion of angles does not work currently as expected. 
 
 Requirements: NumPy, eulerangles
 
